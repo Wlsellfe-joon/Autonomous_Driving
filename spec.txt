@@ -1,0 +1,6 @@
+spec
+
+YDlidar G4
+Raspberry pi 4
+Arduino
+Mecanum wheel
